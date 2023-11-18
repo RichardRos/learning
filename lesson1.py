@@ -12,4 +12,3 @@ def multiple(number1, number2):
 
 answer = multiple(4, 3)
 print(answer)
-
